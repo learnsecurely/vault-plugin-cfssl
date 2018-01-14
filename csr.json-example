@@ -1,0 +1,19 @@
+{ "request": {
+    "hosts": [
+        "learnsecurely.com",
+        "foo.learnsecurely.com"
+    ],
+    "CN": "www.learnsecurely.com",
+    "key": {
+        "algo": "rsa",
+        "size": 4096
+    },
+    "names": [{
+        "C": "US",
+        "L": "Campbell",
+        "O": "Learn Securely, LLC",
+        "OU": "Operations",
+        "ST": "California"
+    }]
+}
+}
